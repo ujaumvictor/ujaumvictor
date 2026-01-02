@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Victor, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Engenharia de Software no Instituto Infnet. Sou apaixonado por tecnologia e sempre busco inovações.
+Me chamo João Victor, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Engenharia de Software no Instituto Infnet. Sou apaixonado por tecnologia e sempre busco inovações.
 
 <p align="left">
     <a href="https://www.youtube.com/@joaovictoreds?sub_confirmation=1">
