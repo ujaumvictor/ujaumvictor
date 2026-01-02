@@ -12,7 +12,7 @@ Me chamo João Victor, tenho 23 anos e sou natural do Rio Grande do Sul. Atualme
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCboiIa9U-GNhmydzKdbBgwA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@joaovictoreds">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
